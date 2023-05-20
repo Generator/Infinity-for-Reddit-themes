@@ -1,3 +1,5 @@
+# Nightfox Color Palette
+
 ```
 background #192330
 foreground #cdcecf
@@ -24,7 +26,3 @@ color17 #d67ad2
 ## Palette1
 
 ![palette1](./assets/nightfox-palette1.png)
-
-## Palette2
-
-<!-- ![Palette2](./assets/nightfox-palette2.png) -->

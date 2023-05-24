@@ -25,4 +25,4 @@ color17 #a440b5
 
 ## Palette
 
-![pallete](./dayfox-palette.png)
+![pallete](assets/dayfox-palette.png)

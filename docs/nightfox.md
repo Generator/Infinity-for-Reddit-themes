@@ -25,4 +25,4 @@ color17 #d67ad2
 
 ## Palette1
 
-![palette1](./assets/nightfox-palette1.png)
+![palette](assets/nightfox-palette.png)

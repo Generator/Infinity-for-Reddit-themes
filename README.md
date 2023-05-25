@@ -17,7 +17,7 @@ Collection of themes for [Infinity for Reddit](https://github.com/Docile-Alligat
 
 <img src="./docs/assets/screenshot-solarized-light.png" height="500px">
 
-#### [Download](./themes/solarized-light.json)
+#### [Download](https://github.com/Generator/Infinity-for-Reddit-themes/raw/main/themes/solarized-light.json)
 
 ---
 
@@ -25,7 +25,7 @@ Collection of themes for [Infinity for Reddit](https://github.com/Docile-Alligat
 
 <img src="./docs/assets/screenshot-solarized-dark.png" height="500px">
 
-#### [Download](./themes/solarized-dark.json)
+#### [Download](https://github.com/Generator/Infinity-for-Reddit-themes/raw/main/themes/solarized-dark.json)
 
 ---
 
@@ -33,7 +33,7 @@ Collection of themes for [Infinity for Reddit](https://github.com/Docile-Alligat
 
 <img src="./docs/assets/screenshot-dayfox.png" height="500px">
 
-### [Download](./themes/dayfox.json)
+#### [Download](https://github.com/Generator/Infinity-for-Reddit-themes/raw/main/themes/dayfox.json)
 
 ---
 
@@ -41,4 +41,4 @@ Collection of themes for [Infinity for Reddit](https://github.com/Docile-Alligat
 
 <img src="./docs/assets/screenshot-nightfox.png" height="500px">
 
-### [Download](./themes/nightfox.json)
+#### [Download](https://github.com/Generator/Infinity-for-Reddit-themes/raw/main/themes/nightfox.json)
